@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>46</id>
+      <size>26</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-04-21 11:19:14.217797+00:00</created>
+      <updated>2025-04-30 18:34:14.655491+00:00</updated>
+      <subset>default</subset>
+      <start_frame>2200</start_frame>
+      <stop_frame>2225</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>46</id>
+          <start>2200</start>
+          <stop>2225</stop>
+          <url>http://138.100.58.184:8080/api/jobs/46</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>administrador</username>
+        <email>juana.gutierrez.arriola@upm.es</email>
+      </owner>
+      <assignee>
+        <username>MarioCN</username>
+        <email></email>
+      </assignee>
+      <labels>
+        <label>
+          <name>02_C_Pez</name>
+          <color>#fa3253</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>21_C_Operculo</name>
+          <color>#32b7fa</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>22_C_AletaPectoral</name>
+          <color>#ffcc33</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>23_C_AletaDorsalSup</name>
+          <color>#83e070</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>24_C_AletaDorsalInf</name>
+          <color>#fafa37</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>25_C_AletaPelviana</name>
+          <color>#5986b3</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>26_C_AletaAnal</name>
+          <color>#8c78f0</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>27_C_Cola</name>
+          <color>#ff6a4d</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>28_C_Ojo</name>
+          <color>#b25050</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>03_C_BordeAgua</name>
+          <color>#34d1b7</color>
+          <type>ellipse</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>01_B_Pez</name>
+          <color>#33ddff</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>05_L_CosturaJaula</name>
+          <color>#ff6037</color>
+          <type>polyline</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>07_L_DivisionLaberinto</name>
+          <color>#24b353</color>
+          <type>polyline</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>08_P_Narina</name>
+          <color>#b83df5</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>09_P_Boca</name>
+          <color>#66ff66</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>10_P_Operculo</name>
+          <color>#32b7fa</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>11_P_AletaPectoral</name>
+          <color>#ffcc33</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>12_P_AletaDorsalSup</name>
+          <color>#83e070</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>13_P_AletaDorsalInf</name>
+          <color>#fafa37</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>14_P_AletaPelviana</name>
+          <color>#5986b3</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>15_P_AletaAnal</name>
+          <color>#8c78f0</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>16_P_ColaSup</name>
+          <color>#ff6a4d</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>17_P_ColaInf</name>
+          <color>#f078f0</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>18_P_ColaMed</name>
+          <color>#f078f0</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>19_L_LineaLateral</name>
+          <color>#2a7dd1</color>
+          <type>polyline</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>20_P_Ojo</name>
+          <color>#b25050</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>04_B_RedNT</name>
+          <color>#ff007c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>06_B_TanqueLaberinto</name>
+          <color>#ddff33</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>29_C_TaponBotella</name>
+          <color>#2a7dd1</color>
+          <type>ellipse</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-05-19 15:47:29.739161+00:00</dumped>
+  </meta>
+  <image id="2200" name="frame_21-24_NOV_Dia4_I3_GX026769_4735.png" width="2704" height="1520">
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1246.36" cy="724.51" rx="848.56" ry="845.04" z_order="0">
+    </ellipse>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1348.39,470.88" z_order="0">
+    </points>
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1517.79,727.49;1548.37,700.79" z_order="0">
+    </points>
+    <points label="13_P_AletaDorsalInf" source="manual" occluded="0" points="1402.78,569.44" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1467.59,658.33" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1554.37,736.48" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1336.00" ytl="460.00" xbr="1564.67" ybr="752.44" z_order="0">
+    </box>
+  </image>
+  <image id="2201" name="frame_21-24_NOV_Dia4_I3_GX026769_802.png" width="2704" height="1520">
+    <points label="08_P_Narina" source="manual" occluded="0" points="1584.08,680.13" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1557.29,797.12" z_order="0">
+    </points>
+    <points label="13_P_AletaDorsalInf" source="manual" occluded="0" points="1527.82,888.21" z_order="0">
+    </points>
+    <points label="11_P_AletaPectoral" source="manual" occluded="0" points="1593.37,791.40;1538.00,775.33" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1247.15" cy="718.10" rx="843.75" ry="862.15" z_order="0">
+    </ellipse>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1375.11,1076.65" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1363.57" ytl="680.45" xbr="1605.34" ybr="1081.68" z_order="0">
+    </box>
+  </image>
+  <image id="2202" name="frame_21-24_NOV_Dia4_I3_GX026770_14039.png" width="2704" height="1520">
+    <points label="11_P_AletaPectoral" source="manual" occluded="0" points="1709.90,406.85;1743.12,356.48" z_order="0">
+    </points>
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1692.75,334.83;1672.39,369.13" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1645.60,328.62" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="2022.96,592.04" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1637.78" ytl="319.81" xbr="2030.37" ybr="601.30" z_order="0">
+    </box>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1341.74" cy="753.32" rx="810.94" ry="810.93" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2203" name="frame_21-24_NOV_Dia4_I3_GX026770_19905.png" width="2704" height="1520">
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1348.11" cy="761.80" rx="778.52" ry="786.10" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2204" name="frame_21-24_NOV_Dia4_I3_GX026770_220.png" width="2704" height="1520">
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1642.06" ytl="897.68" xbr="2003.21" ybr="1207.39" z_order="0">
+    </box>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1314.00" cy="759.92" rx="816.35" ry="806.92" z_order="0">
+    </ellipse>
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1664.57,1154.88;1695.64,1185.96" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1654.92,1197.74" z_order="0">
+    </points>
+    <points label="11_P_AletaPectoral" source="manual" occluded="0" points="1767.45,1112.01;1716.01,1083.07" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="2000.00,897.68" z_order="0">
+    </points>
+  </image>
+  <image id="2205" name="frame_21-24_NOV_Dia4_I3_GX026770_22045.png" width="2704" height="1520">
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1332.98" cy="763.82" rx="759.62" ry="759.58" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2206" name="frame_21-24_NOV_Dia4_I3_GX026770_26198.png" width="2704" height="1520">
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1342.45" cy="752.40" rx="808.75" ry="805.00" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2207" name="frame_21-24_NOV_Dia4_I3_GX026770_4445.png" width="2704" height="1520">
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1306.80" cy="763.95" rx="811.45" ry="807.05" z_order="0">
+    </ellipse>
+    <points label="11_P_AletaPectoral" source="manual" occluded="0" points="1590.10,1130.54;1607.46,1185.12" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1503.46,1186.05" z_order="0">
+    </points>
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1548.73,1191.63;1537.57,1153.80" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1900.30,1061.40" z_order="0">
+    </points>
+    <points label="13_P_AletaDorsalInf" source="manual" occluded="0" points="1768.27,1112.87" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1499.74" ytl="1058.80" xbr="1901.61" ybr="1197.09" z_order="0">
+    </box>
+  </image>
+  <image id="2208" name="frame_21-24_NOV_Dia4_I3_GX026773_11.png" width="2704" height="1520">
+    <points label="08_P_Narina" source="manual" occluded="0" points="1887.37,1219.93" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1805.92,804.95" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1803.52" ytl="805.06" xbr="1926.97" ybr="1218.64" z_order="0">
+    </box>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1292.67" cy="872.40" rx="822.77" ry="833.30" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2209" name="frame_21-24_NOV_Dia4_I3_GX026773_2032.png" width="2704" height="1520">
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1792.97,802.30" z_order="0">
+    </points>
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1862.25,1157.31;1897.40,1153.69" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1790.30" ytl="802.30" xbr="1906.50" ybr="1233.30" z_order="0">
+    </box>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1881.26,1221.43" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1300.58" cy="879.08" rx="828.02" ry="831.92" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2210" name="frame_21-24_NOV_Dia4_I3_GX026773_2374.png" width="2704" height="1520">
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1855.11,1161.63;1902.26,1155.20" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1782.38,805.06" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1779.14" ytl="804.91" xbr="1912.01" ybr="1226.36" z_order="0">
+    </box>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1883.32,1214.27" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1299.20" cy="872.43" rx="826.70" ry="830.68" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2211" name="frame_21-24_NOV_Dia4_I3_GX026773_2450.png" width="2704" height="1520">
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1770.00" ytl="796.67" xbr="1922.60" ybr="1227.78" z_order="0">
+    </box>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1873.62,1217.26" z_order="0">
+    </points>
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1856.12,1160.00;1892.12,1152.28" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1776.20,795.80" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1298.02" cy="875.05" rx="825.38" ry="830.70" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2212" name="frame_21-24_NOV_Dia4_I3_GX026773_825.png" width="2704" height="1520">
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1293.95" cy="872.40" rx="820.20" ry="832.00" z_order="0">
+    </ellipse>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1802.17,810.01" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1887.90,1219.39" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1800.02" ytl="807.87" xbr="1906.12" ybr="1223.68" z_order="0">
+    </box>
+  </image>
+  <image id="2213" name="frame_21-24_NOV_Dia4_I3_GX026773_863.png" width="2704" height="1520">
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1797.88" ytl="804.44" xbr="1925.41" ybr="1223.46" z_order="0">
+    </box>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1890.04,1220.25" z_order="0">
+    </points>
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1871.83,1143.09;1898.62,1139.87" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1296.72" cy="869.85" rx="824.02" ry="831.95" z_order="0">
+    </ellipse>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1802.17,807.66" z_order="0">
+    </points>
+  </image>
+  <image id="2214" name="frame_21-24_NOV_Dia4_I3_GX026774_2454.png" width="2704" height="1520">
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1621.06,679.77" z_order="0">
+    </points>
+    <points label="13_P_AletaDorsalInf" source="manual" occluded="0" points="1444.68,801.76" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1308.93,895.53" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1255.35,933.93" z_order="0">
+    </points>
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1301.79,926.79;1273.21,883.03" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1251.69" ytl="679.14" xbr="1620.52" ybr="938.22" z_order="0">
+    </box>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1300.42" cy="877.70" rx="847.77" ry="858.20" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2215" name="frame_21-24_NOV_Dia4_I3_GX026774_3639.png" width="2704" height="1520">
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1249.01" ytl="683.61" xbr="1609.80" ybr="938.22" z_order="0">
+    </box>
+    <points label="13_P_AletaDorsalInf" source="manual" occluded="0" points="1457.63,795.87" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1329.74,882.14" z_order="0">
+    </points>
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1272.58,891.96;1293.12,922.32" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1249.36,936.61" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1608.37,684.77" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1301.90" cy="882.85" rx="854.25" ry="860.85" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2216" name="frame_21-24_NOV_Dia4_I3_GX026774_4799.png" width="2704" height="1520">
+    <points label="08_P_Narina" source="manual" occluded="0" points="1249.36,934.83" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1611.05,684.77" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1305.84" cy="872.32" rx="852.96" ry="860.87" z_order="0">
+    </ellipse>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1245.43" ytl="680.93" xbr="1612.48" ybr="938.22" z_order="0">
+    </box>
+    <points label="13_P_AletaDorsalInf" source="manual" occluded="0" points="1454.31,800.67" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1329.84,884.22" z_order="0">
+    </points>
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1263.69,898.04;1289.53,916.99" z_order="0">
+    </points>
+  </image>
+  <image id="2217" name="frame_21-24_NOV_Dia4_I3_GX026774_6284.png" width="2704" height="1520">
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1319.47,885.98" z_order="0">
+    </points>
+    <points label="13_P_AletaDorsalInf" source="manual" occluded="0" points="1478.17,785.15" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1307.15" cy="881.70" rx="854.25" ry="860.80" z_order="0">
+    </ellipse>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1248.76" ytl="686.77" xbr="1607.77" ybr="935.51" z_order="0">
+    </box>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1604.36,685.13" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1249.81,935.99" z_order="0">
+    </points>
+  </image>
+  <image id="2218" name="frame_21-24_NOV_Dia4_I3_GX026774_6861.png" width="2704" height="1520">
+    <points label="13_P_AletaDorsalInf" source="manual" occluded="0" points="1443.60,805.51" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1248.92,936.79" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1607.93,680.48" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1304.53" cy="875.15" rx="855.57" ry="860.85" z_order="0">
+    </ellipse>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1236.97" ytl="680.34" xbr="1607.77" ybr="937.65" z_order="0">
+    </box>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1324.83,887.58" z_order="0">
+    </points>
+  </image>
+  <image id="2219" name="frame_21-24_NOV_Dia4_I3_GX026774_7692.png" width="2704" height="1520">
+    <points label="13_P_AletaDorsalInf" source="manual" occluded="0" points="1461.91,793.19" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1331.27,882.99" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1248.76,937.65" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1605.62,684.73" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1246.61" ytl="683.56" xbr="1605.62" ybr="937.65" z_order="0">
+    </box>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1299.25" cy="876.40" rx="856.90" ry="860.80" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2220" name="frame_21-24_NOV_Dia4_I3_GX026775_1729.png" width="2704" height="1520">
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1140.47" cy="869.80" rx="851.63" ry="860.80" z_order="0">
+    </ellipse>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1236.08" ytl="342.87" xbr="1654.44" ybr="466.33" z_order="0">
+    </box>
+    <points label="11_P_AletaPectoral" source="manual" occluded="0" points="1361.30,461.90;1333.90,399.10" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1225.84,450.64" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1650.74,350.37" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1348.30,432.70" z_order="0">
+    </points>
+  </image>
+  <image id="2221" name="frame_21-24_NOV_Dia4_I3_GX026775_1954.png" width="2704" height="1520">
+    <points label="11_P_AletaPectoral" source="manual" occluded="0" points="1335.81,403.99;1340.00,465.20" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1152.22" cy="867.18" rx="855.58" ry="854.28" z_order="0">
+    </ellipse>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1225.58" ytl="346.14" xbr="1652.76" ybr="468.93" z_order="0">
+    </box>
+    <points label="13_P_AletaDorsalInf" source="manual" occluded="0" points="1501.92,412.12" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1229.60,446.20" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1653.00,351.90" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1347.70,433.00" z_order="0">
+    </points>
+  </image>
+  <image id="2222" name="frame_21-24_NOV_Dia4_I3_GX026775_2048.png" width="2704" height="1520">
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1143.11" cy="862.00" rx="846.39" ry="850.30" z_order="0">
+    </ellipse>
+    <points label="11_P_AletaPectoral" source="manual" occluded="0" points="1336.71,403.99;1354.90,460.40" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1225.58" ytl="346.14" xbr="1655.74" ybr="467.44" z_order="0">
+    </box>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1229.00,449.90" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1653.00,351.90" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1347.10,433.30" z_order="0">
+    </points>
+  </image>
+  <image id="2223" name="frame_21-24_NOV_Dia4_I3_GX026775_2064.png" width="2704" height="1520">
+    <points label="11_P_AletaPectoral" source="manual" occluded="0" points="1333.13,399.79;1340.28,461.33" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1143.14" cy="861.96" rx="851.64" ry="850.34" z_order="0">
+    </ellipse>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1228.55" ytl="346.14" xbr="1656.48" ybr="467.44" z_order="0">
+    </box>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1231.80,443.40" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1653.00,351.90" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1356.40,428.65" z_order="0">
+    </points>
+  </image>
+  <image id="2224" name="frame_21-24_NOV_Dia4_I3_GX026775_334.png" width="2704" height="1520">
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1233.02" ytl="346.14" xbr="1655.74" ybr="460.00" z_order="0">
+    </box>
+    <points label="11_P_AletaPectoral" source="manual" occluded="0" points="1353.67,451.41;1336.71,389.79" z_order="0">
+    </points>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1151.80" cy="867.29" rx="867.45" ry="852.82" rotation="359.90" z_order="0">
+    </ellipse>
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1282.59,411.85;1289.73,451.15" z_order="0">
+    </points>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1234.60,436.90" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1653.00,351.90" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1365.70,424.00" z_order="0">
+    </points>
+  </image>
+  <image id="2225" name="frame_21-24_NOV_Dia4_I3_GX026775_673.png" width="2704" height="1520">
+    <points label="20_P_Ojo" source="manual" occluded="0" points="1253.65,426.59;1264.37,451.59" z_order="0">
+    </points>
+    <box label="01_B_Pez" source="manual" occluded="0" xtl="1231.50" ytl="344.16" xbr="1657.17" ybr="462.47" z_order="0">
+    </box>
+    <ellipse label="03_C_BordeAgua" source="manual" occluded="0" cx="1144.45" cy="869.65" rx="850.35" ry="856.95" z_order="0">
+    </ellipse>
+    <points label="08_P_Narina" source="manual" occluded="0" points="1237.70,443.70" z_order="0">
+    </points>
+    <points label="17_P_ColaInf" source="manual" occluded="0" points="1653.00,351.90" z_order="0">
+    </points>
+    <points label="12_P_AletaDorsalSup" source="manual" occluded="0" points="1365.70,424.00" z_order="0">
+    </points>
+  </image>
+</annotations>

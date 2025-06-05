@@ -1,0 +1,47 @@
+Task: proyecto5
+scorer: Mario
+date: Jun5
+multianimalproject: false
+identity: null
+project_path: C:\Users\Usuario01\PycharmProjects\PythonProject\proyecto5-Mario-2025-06-05
+video_sets:
+  C:\Users\Usuario01\PycharmProjects\PythonProject\proyecto5-Mario-2025-06-05\videos\video1.mp4:
+    crop: 0, 1920, 0, 1080
+bodyparts:
+- 08_P_Narina
+- 12_P_AletaDorsalSup
+- 13_P_AletaDorsalInf
+- 20_P_Ojo_Izq
+- 20_P_Ojo_Der
+- 11_P_AletaPectoral_Izq
+- 11_P_AletaPectoral_Der
+- 17_P_ColaInf
+start: 0
+stop: 1
+numframes2pick: 20
+skeleton:
+- - bodypart1
+  - bodypart2
+- - objectA
+  - bodypart3
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 12
+alphavalue: 0.7
+colormap: rainbow
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+cropping: false
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+corner2move2:
+- 50
+- 50
+move2corner: true
